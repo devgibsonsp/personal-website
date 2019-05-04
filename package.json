@@ -2,16 +2,17 @@
   "name": "steve",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  },
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "0.9.x"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "steve-toolbox": "https://github.com/devgibsonsp/steve-toolbox/commit/24055c1556945318407a77c35791777b50438418"
+  }
 }
